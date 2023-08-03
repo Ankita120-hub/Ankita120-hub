@@ -1,9 +1,9 @@
 # Ankita120
 - 👋 Hi, I’m @ankitadutta
-- 👀 I’m interested in Software Developing.
-- 🌱 I’m currently pursuing Bachelor In Technology in Information Technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me Instagram,Facebook.
+- 👀 Interested in Software Developing ...
+- 🌱 Currently pursuing Bachelor In Technology in Information Technology ...
+- 💞️ Looking for collaborations ...
+- 📫 Reach me ankitadutta120@gmail.com 
 
 <!---
 ankitadutta/ankitadutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
